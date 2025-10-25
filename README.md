@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vizxls and I'm a Solo Developer, from New Zealand</h2>
+<h2 align="left">Hi 👋! I am Vizxls and I'm a Solo Developer, from New Zealand</h2>
 
 ###
 
